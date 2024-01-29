@@ -9,3 +9,12 @@ Imagine multiple Radio-Ducks in flying-v formation processing data from your clo
 ```
 
 Flying V - inspired from the movie  [Mighty Ducks](https://duckdb.org/](https://www.youtube.com/watch?v=PqMkMz21KxA)https://www.youtube.com/watch?v=PqMkMz21KxA) 😎
+
+## Architecture:
+todo
+
+## Try me:
+work in progress
+
+## Notes: 
+todo
